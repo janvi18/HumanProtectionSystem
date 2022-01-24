@@ -1,0 +1,23 @@
+The Complaints Report Management System is a simple project that can serve as the website of the police department to provide the 
+citizens under their jurisdiction an online platform for their complaints, possible crime report, or any incident that may occur 
+in their city or municipal. The system requires the complainant to register to the system so they can submit a complaint using 
+the website.
+
+Features
+Admin Side
+Login Page
+Home Page
+Station List
+Responders List
+Complainant List
+Complaints List
+Complaints Report
+Users Page
+System Settings
+
+Complainant's Side
+Home Page
+Complain/Crime Report Modal
+Login Modal
+Signup Modal
+Complainant's Complaints List (My Complaints)

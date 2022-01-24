@@ -1,0 +1,12 @@
+.main{
+    margin: 0%;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    background-color: rgb(197, 182, 182);
+}
+marquee{ 
+    height: 43px;
+    font-size: 30px;
+    background: #2d2d2d;
+    color: #d6b2cd;
+ } 
+ 
